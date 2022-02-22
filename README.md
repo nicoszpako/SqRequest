@@ -1,4 +1,4 @@
-Adding following expressions:
+Adds following expressions:
 
 ### HTTP request result using POST method
 Returns the result of a POST method sent to the given address with the given parameters.\
